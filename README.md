@@ -56,7 +56,7 @@ A Zoom link will be emailed to registered participants.
 
 1. **Join the event** (in-person or virtually).
 2. **Open the [Colab notebook](https://colab.research.google.com/gist/knc6/208db7fa258ae6612c5717ea74bebb3b/aai4science_2025_kc.ipynb)** to explore evaluation examples.
-3. **Run experiments** using the listed AI tools on PCMB tasks.
+3. **Perform the tasks** using the AI tools discussed.
 4. **Document your findings**—accuracy, reasoning, hallucination cases.
 5. **Submit your results** through the [Google Form](https://forms.gle/AycYgYj4ZZoBZE7m9).
 

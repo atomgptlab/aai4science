@@ -6,9 +6,9 @@
 
 **Registration:** [Register here](https://www.eventbrite.com/e/agentic-ai-for-science-aai4science-hackathon-2025-tickets-1797906650189)
 
-**Colab Notebook:** 
+**Colab Notebook:** [Link](https://colab.research.google.com/gist/knc6/d7cc94014f05f2c7577e029ccb30a955/aai4science_2025_kc.ipynb)
 
-**Submission Form:** 
+**Submission Form:** [Link](https://forms.gle/AycYgYj4ZZoBZE7m9)
 
 ---
 
@@ -23,14 +23,14 @@ The event aims to benchmark how well **agentic AI systems** reason, explain, and
 * [AtomGPT](https://atomgpt.org/)
 * [Claude](https://claude.ai/) etc.
 
-These models can deliver insightful and accurate answers, but they also **hallucinate**—producing incorrect outputs with high confidence.
+These models can deliver insightful and accurate answers, but they also **hallucinate**, producing incorrect outputs with high confidence.
 Understanding, evaluating, and mitigating such behaviors is key for **trustworthy and reproducible scientific discovery**.
 
 ---
 
 ## 🧩 Objectives
 
-* Evaluate reasoning and factual accuracy of AI models on PCMB topics.
+* Hands-on experience with cutting-edge AI tools
 * Identify and categorize hallucinations (false but confident outputs).
 * Develop and share reproducible test prompts and datasets.
 * Foster open collaboration toward **benchmarking AI for science**.
@@ -55,10 +55,12 @@ A Zoom link will be emailed to registered participants.
 ## 🧠 How to Participate
 
 1. **Join the event** (in-person or virtually).
-2. **Open the Colab notebook to explore evaluation examples.
-3. **Perform the tasks** using the AI tools discussed.
-4. **Document your findings**—accuracy, reasoning, hallucination cases.
-5. **Submit your results** through the Google Form.
+2. Attend the **introduction** session.
+3. Open the **Colab notebook** to explore examples.
+4. **Perform the tasks** using the AI tools discussed.
+5. Save **your** colab notebook as a GitHub Gist.
+6. Add your colab link with solutions tp the tasks in the **google form**.
+7. **Submit your results** through the Google Form.
 
 ---
 
